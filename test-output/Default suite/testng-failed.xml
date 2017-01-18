@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Selenium_POM.Selenium_POMs.practise_project.testscripts.TC002_TestCreateAccount">
+        <methods>
+          <include name="setUp"/>
+          <include name="testCreateAccount"/>
+        </methods>
+      </class> <!-- Selenium_POM.Selenium_POMs.practise_project.testscripts.TC002_TestCreateAccount -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
