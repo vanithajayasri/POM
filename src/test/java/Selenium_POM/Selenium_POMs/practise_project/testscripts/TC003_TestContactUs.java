@@ -21,6 +21,8 @@ public class TC003_TestContactUs extends ReusableMethods{
 	@Test
 	public void testContactUs() throws InterruptedException{
 		contact = new ContactUs(driver);
+	
+	
 		contact.ToConactUs();
 
 	}
